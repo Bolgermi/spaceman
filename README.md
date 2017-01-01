@@ -8,6 +8,5 @@ Designed to be used as a reference point for quickly creating walking sprites in
 
 ###Requirements:
 
--LÖVE 0.10.0
--anim8
+LÖVE 0.10.0, anim8
 
